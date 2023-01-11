@@ -1,1 +1,18 @@
 /* your code */
+.table{
+	box-sizing:border-box;
+	border-radius: 10px;
+	background-color:lightgreen;
+}
+.head{
+	background-color: navy;
+	color:white;	
+	
+	
+}
+#doggo{
+	background-color:aliceblue;
+}
+#berry{
+	background-color:aliceblue;
+}
